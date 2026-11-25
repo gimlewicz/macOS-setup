@@ -56,15 +56,16 @@ When it finishes, open a new terminal window (or iTerm2) to load the changes.
 
 ## 📦 What gets installed
 
-| Category                    | Tools                                                                                         |
-| --------------------------- | --------------------------------------------------------------------------------------------- |
-| 🐚 **Shell**                 | [Oh My Zsh](https://ohmyz.sh), [iTerm2](https://iterm2.com)                                   |
-| 🧰 **General**               | `jq`, `yq`, `gh`, `pre-commit`, Claude, Claude Code                                           |
-| 💻 **IDE**                   | [Cursor](https://cursor.com)                                                                  |
-| ☸️ **Kubernetes**            | `kubectl`, `kind`, `kustomize`, `k9s`, `helm`, `argocd`, `flux`, `cilium-cli`, Docker Desktop |
-| 🔒 **Containers & security** | `dive`, `grype`, `trivy`                                                                      |
-| ☁️ **Cloud**                 | `awscli`, `azure-cli`, `gcloud-cli`                                                           |
-| 🏗️ **IaC & secrets**         | `terraform`, `opentofu`, `vault`                                                              |
+| Category                    | Tools                                                                                                     |
+| --------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 🐚 **Shell**                 | [Oh My Zsh](https://ohmyz.sh), [iTerm2](https://iterm2.com)                                               |
+| 🧰 **General**               | `jq`, `yq`, `gh`, `pre-commit`, Claude, Claude Code                                                       |
+| 💻 **IDE**                   | [Cursor](https://cursor.com)                                                                              |
+| ☸️ **Kubernetes**            | `kubectl`, `kind`, `kustomize`, `k9s`, `helm`, `argocd`, `flux`, `cilium-cli`, `istioctl`, Docker Desktop |
+| 🔒 **Containers & security** | `dive`, `grype`, `trivy`                                                                                  |
+| ☁️ **Cloud**                 | `awscli`, `azure-cli`, `gcloud-cli`                                                                       |
+| 🏗️ **IaC & secrets**         | `terraform`, `opentofu`, `vault`                                                                          |
+| 🐹 **Programming**           | `go`                                                                                                      |
 
 <details>
 <summary><b>Third-party taps</b></summary>

@@ -26,6 +26,7 @@ brew "argocd"
 brew "fluxcd/tap/flux"
 brew "cilium-cli"
 cask "docker-desktop"
+brew "istioctl"
 
 # --- Containers & security scanning -----------------------------------------
 brew "dive"
@@ -41,3 +42,6 @@ cask "gcloud-cli"
 brew "hashicorp/tap/terraform"
 brew "opentofu"
 brew "hashicorp/tap/vault"
+
+# --- Programming ------------------------------------------------------------
+brew "go"
