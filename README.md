@@ -12,7 +12,7 @@
 [Quick start](#-quick-start) •
 [What it does](#%EF%B8%8F-what-it-does) •
 [What gets installed](#-what-gets-installed) •
-[Customizing](#-customizing)
+[Customizing](#%EF%B8%8F-customizing)
 
 </div>
 
